@@ -1,0 +1,40 @@
+img{
+			width:960px;
+			height:275px;
+			}
+
+		a{
+			text-decoration: none;
+			padding-right:4px;
+
+		}
+		.one
+			{
+				border-right:1px black solid;
+			}
+
+		.links	{
+				margin-left:30%;
+				display:flex;
+
+				}
+		.links li
+			{
+				list-style-type: none;
+				color:#7D3C98;
+				margin-right:3px;
+				margin-left:3px;
+			
+			}
+
+		.images img
+		{
+			height:200px;
+			width:180px;
+			border:1px black solid;
+		}
+		.images
+		{
+			margin-left:8%;
+			margin-top:20px;
+		}
